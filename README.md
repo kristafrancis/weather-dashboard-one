@@ -19,4 +19,4 @@ https://kristafrancis.github.io/weather-dashboard/
 
 Made with ❤️️ by Krista Francis
 
-/Users/kristafrancis/Desktop/Screen Shot 2022-07-20 at 3.53.06 PM Small.png
+file:///var/folders/lc/zdy49ccn4pd4zr8t_w36w66c0000gn/T/TemporaryItems/NSIRD_screencaptureui_4LkHkV/Screen%20Shot%202022-07-20%20at%205.05.02%20PM.png
